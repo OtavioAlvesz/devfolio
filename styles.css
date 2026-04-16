@@ -1,0 +1,27 @@
+/* style.css — DevFolio */
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #0f172a;
+  color: #e2e8f0;
+  line-height: 1.7;
+}
+header {
+  text-align: center;
+  padding: 60px 20px 40px;
+  border-bottom: 1px solid #1e293b;
+}
+header h1 { font-size: 2.5rem; color: #4ade80; }
+.subtitulo  { color: #94a3b8; margin-top: 8px; }
+main { max-width: 760px; margin: 0 auto; padding: 40px 20px; }
+section { margin-bottom: 48px; }
+h2 {
+  color: #4ade80;
+  font-size: 1.2rem;
+  margin-bottom: 14px;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+}
+a { color: #4ade80; }
+footer { text-align: center; padding: 24px; color: #475569; font-size: 0.85rem; }
